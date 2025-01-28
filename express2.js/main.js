@@ -1,8 +1,9 @@
 const express = require("express");
+const blog = require('./routes/blog')
 const app = express();
 const port = 3000;
 
-
+app.use('/blog', blog);
 app.use(express.static("public"));
 
 app.get("/", (req, res) => {
