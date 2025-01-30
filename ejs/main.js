@@ -7,7 +7,7 @@ app.set('view engine', 'ejs');
 app.get('/', (req, res) => {
     let siteName ="Addidas"
     let searchText= "Search Now"
-    let arr=["The King is |Kapil Raut", "Age is 20 years old", "Profession is Web Developer"]
+    let arr=["The King is |Kapil Raut", "Age is 20 years old", "Profession is Developer"]
   res.render('index', {siteName: siteName, searchText: searchText, arr});
 })
 app.get('/blog/:slug', (req, res) => {
