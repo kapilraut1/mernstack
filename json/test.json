@@ -1,0 +1,9 @@
+{
+    "text":{
+        "name": "Hari", 
+        "age": "20",
+        "salary": null
+    }, 
+            "students": ["Ram", "Shyam", "Radhika",
+                "Akshay", "Prashant", "Varun"]
+}
