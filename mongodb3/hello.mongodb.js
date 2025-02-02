@@ -52,7 +52,4 @@ db.champ.insertMany([
 
 db.champ.getDB()
 
-// update operations
-db.champ.updateOne({age:22}, {
-    "height": "5.7inches"
-})
+
