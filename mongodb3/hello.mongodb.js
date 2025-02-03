@@ -52,4 +52,6 @@ db.champ.insertMany([
 
 db.champ.getDB()
 
-
+// creating collection
+db.createCollection("day6")
+use
