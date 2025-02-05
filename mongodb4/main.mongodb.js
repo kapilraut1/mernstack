@@ -82,4 +82,6 @@ db.prac.insertMany ([ {
     { upsert: true }
   )
  */
-  db.prac.updateMany({}, { $inc: { likes: 1 } })
+  // db.prac.updateMany({}, { $inc: { likes: 1 } })
+  // db.prac.updateOne({}, {$unset: {likes: 5}})
+  //db.prac.findOne({likes: {$eq:4}})
