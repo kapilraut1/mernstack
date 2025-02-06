@@ -3,3 +3,15 @@ Data structures is about how data is stored in different structures. It tells yo
 types of DS
 i. Primitive DS- int, float, char, string
 ii. Abstract DS- linkedlist, arrays, stacks, trees, queues
+
+Algorithm
+It is a step-by step procedure or instructions to solve a given problem.
+
+Data Structures and Algorithm
+DSA is about finding efficient ways to store and retrieve data, to perform operations on data, and to solve specific problems.
+
+By understanding DSA, you can:
+
+Decide which data structure or algorithm is best for a given situation.
+Make programs that run faster or use less memory.
+Understand how to approach complex problems and solve them in a systematic way.
