@@ -1,0 +1,5 @@
+Data structures is about how data is stored in different structures. It tells you about how data can be stored. 
+
+types of DS
+i. Primitive DS- int, float, char, string
+ii. Abstract DS- linkedlist, arrays, stacks, trees, queues
