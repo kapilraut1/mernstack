@@ -69,3 +69,41 @@ h1, h2 {
     
 }
 
+#projects{
+    text-align: center;
+    margin:5px;
+    background-color: #45567d;
+}
+
+.pr-header{
+    max-width: 640px;
+    margin: 0 auto 6rem auto;
+    border-bottom: 0.2rem solid var(--main-white);
+    color: white;
+    text-decoration: underline;
+    font-size: 2.2rem;
+    padding: 10px;
+
+
+}
+
+.project-body{
+    display: grid;
+    grid-column: 1;
+    padding: 4px;
+}
+
+.project-tile{
+    margin: 10px;
+
+}
+
+.project-tile>img{
+    display: block;
+    height: 100px;
+    width: 100%;
+    object-fit: cover;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
