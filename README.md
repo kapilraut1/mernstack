@@ -3,3 +3,5 @@ I know i will win and surely win. The success will be acheived.
 The private repo are nice to use.
 I win and join ibriz.ai
 I am the best i know that;
+
+i will be hired here soon. i will get the message of getting hired very sooner.
